@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Complete my bachelor's degree in Bachelor of Computer Applications.
-- 💼 &nbsp; Currently I am looking for a job.
+- 💼 &nbsp; .....
 - 🌱 &nbsp; Learning more about Cloud Architecture, and Artificial Intelligence.
 
 <h3> 💎 &nbsp;Language</h3>
