@@ -2,10 +2,10 @@
 
 <h3> 💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, AI tools, developing software solutions, and quick hacks.
 - 🎓 &nbsp; Complete my bachelor's degree in Bachelor of Computer Applications.
 - 💼 &nbsp; .....
-- 🌱 &nbsp; Learning more about Nextjs, AI tools, and Cloud Architecture.
+- 🌱 &nbsp; Learning more about Nextjs and Cloud Architecture.
 
 <h3> 💎 &nbsp;Language</h3>
 
