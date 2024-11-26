@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies, AI tools, developing software solutions, and quick hacks.
 - 🎓 &nbsp; I completed my bachelor's degree in Bachelor of Computer Applications.
-- 💼 &nbsp; .....
 - 🌱 &nbsp; Learning more about Nextjs and Cloud Architecture.
 
 <h3> 💎 &nbsp;Language</h3>
@@ -57,7 +56,7 @@
 	<code><img width="42" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
-<h3> 🤝 &nbsp;Connect with Me </h3>
+<h3> 🤝 &nbsp;Connect with me here: </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vasukumar01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vasu%20Kumar-blue?style=flat-square&logo=linkedin"></a>
